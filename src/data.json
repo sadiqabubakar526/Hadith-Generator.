@@ -1,0 +1,98 @@
+{
+    "Hadiths":[
+        {
+            "hadith":"Whoever has been given his portion of compassion has been given his portion of good. Whoever is denied given his portion of compassion has been denied his portion of good. Good character will be the weightiest thing in the believer's balance on the Day of Rising. Allah hates a coarse, foul-mouthed person.",
+            "reference":"Al-Adab Al-Mufrad 464"
+        },
+        {
+          "hadith":"Ar-Ruqa, At-Timâ'im and At-Tiwalah are all acts of shirk (polytheism)",
+          "reference":"Musnad Ahmad; Abu Dâwud"
+        },
+                {
+          "hadith":"Abdullah Ibn Mas'ud (RA) said: I ask the messenger of Allah (S.A.W) , O Allah's Messenger! what is the best deed? he replied, To offer the Salat (prayers) at their early fixed stated times. I asked, what is next in goodness? He replied, To be good and dutiful to your parents. I futher asked, What is next in goodness? He replied, To participate in jihâd in Allah cause. I did not ask Allah's Messenger (S.A.W) anymore and if i had asked him more, he would have told me more."
+          "reference":"Sahih Al-Bukhári, Vol.4, Hadith No.41"
+        },
+                {
+          "hadith":"Ibn Umar (RA) narrated that: Allah's Messenger (S.A.W) said, whoever misses the Asr prayers (intentionally), then it id as if he lost his family and  property.",
+          "reference":"Sahih Bukhari Vol.1, hadith No.527"
+        },
+                {
+          "hadith":"Abu Huraira narrated that the prophet of Allah (S.A.W) said, Everyday two angels come down from heaven and one of them (angels) says, O Allah! Compensate every person who spend in Your Cause, and thr the other (angel) says, O Allah! destroy every miser.",
+          "reference":"Sahih Al-Bukhâri, Vol.2, Hadith No.522"
+        },
+        {
+          "hadith":"Abu hurairah narrated that the prophet muhammad said: whoever visited a soothsayer and believe in his words, has denied the revelation to muhammad (i.e. Qur'an)",
+          "reference":"Abu Dâwud"
+        },        
+        {
+          "hadith":"Ibn mas'ud reported to have heard Allah's Messenger saying: Shall I not tell you what Al-Adh (literally: lying, sorcery etc.) is? It conveying false rumours for the purpose of causing disputes between people.",
+          "reference":"Sahih Muslim"
+        },
+        
+        {
+            "hadith":"Whoever is denied compassion is denied good.",
+            "reference":"Al-Adab Al-Mufrad 463"
+        }, 
+        {
+            "hadith":"Forgive right-acting people their slips.",
+            "reference":"Al-Adab Al-Mufrad 465"
+        },
+        {
+            "hadith":"If there is roughness in anything it is bound to disgrace it. Allah is compassionate and loves compassion.",
+            "reference":"Al-Adab Al-Mufrad 466"
+        }, 
+        {
+            "hadith":"Abu Sa'id al-Khudri said, 'The Messenger of Allah, may Allah bless him and grant him peace, was more modest than a virgin in her tent. When he disliked something, we recognised that in his face.' ",
+            "reference":"Al-Adab Al-Mufrad 467"
+        }, 
+        {
+            "hadith":"Right guidance, good behaviour and aiming for what is just and correct is a seventieth part of prophethood.",
+            "reference":"Al-Adab Al-Mufrad 468"
+        }, 
+        {
+            "hadith":"'A'isha, may Allah be pleased with her, said, 'I was on a camel which was some what intractable and the Prophet, may Allah bless him and grant him peace, remarked, 'You must be compassionate. Whenever there is compassion in something, it adorns it, and when it is removed from something it disgraces it.'",
+            "reference":"Al-Adab Al-Mufrad 469"
+        }, {
+            "hadith":"Beware of avarice. It destroyed those before you. They shed one another's blood and broke off relations with their relatives. Injustice will appear as darkness on the Day of Rising.",
+            "reference":"Al-Adab Al-Mufrad 470"
+        }, 
+        {
+            "hadith":"Aisha reported: The Messenger of Allah, peace and blessings be upon him, would fast until we said he will never break his fast, and he did not fast until we said he would never fast. I did not see the Prophet complete an entire month of fasting except for Ramadan, and I did not see him complete more voluntary fasts than in the month of Sha’ban. In another narration, Aisha said: The Prophet would fast Sha’ban and then connect it to Ramadan.",
+            "reference":"Ṣaḥīḥ al-Bukhārī 1969, Ṣaḥīḥ Muslim 1156"
+            "grade":"Muttafaqun Alayhi (authenticity agreed upon) according to Al-Bukhari and Muslim"
+        },
+        {
+            "hadith":"Allah is compassionate and loves compassion. He gives for compassion what He goes not give for harshness.",
+            "reference":"Al-Adab Al-Mufrad 472"
+        }, 
+        {
+            "hadith":"Make things easy and do not make things difficult. Calm people and do not arouse their aversion.",
+            "reference":"Al-Adab Al-Mufrad 473"
+        }
+        {
+             "hadith":"Anas Ibn Mâlik (R.A) narrated that, The prophet (S.A.W) said, there is a big tree in paradise (which is so big and huge that) if a rider travels in it's shade for one hundred years,he would not be able to cross it.",
+             "reference":"Sahih Al-Bukhâri, Vol.4, hadith No.474"
+        },
+        }
+    ],
+    "colors":[
+        "#51d803",
+        "#274d8a",
+        "#691706",
+        "#2d062e",
+        "#192e06",
+        "#062e29",
+        "#1a0101",
+        "#22260f",
+        "#061f2e",
+        "#062e2e",
+        "#06092e",
+        "#34225e",
+        "#2c2012",
+        "#340220",
+        "#5c225e",
+        "#540b41",
+        "#a82a2c",
+        "#05657d",
+    ] 
+}
